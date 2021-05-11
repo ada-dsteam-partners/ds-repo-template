@@ -1,4 +1,4 @@
-bid-financial-services
+Data Science - Projects Template
 ==============================
 
 Retail Business Insights Dashboard project repository for team colloboration
